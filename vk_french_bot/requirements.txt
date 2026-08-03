@@ -1,0 +1,6 @@
+vk-api==11.9.9
+gigachat
+gTTS
+pydub
+requests
+python-dotenv
